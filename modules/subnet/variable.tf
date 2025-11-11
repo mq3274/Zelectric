@@ -1,1 +1,1 @@
-variable "sub-list" {}
+variable "sub_list" {}

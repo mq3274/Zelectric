@@ -1,1 +1,1 @@
-variable "rg-list" {}
+variable "rg_list" {}

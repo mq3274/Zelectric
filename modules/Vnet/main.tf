@@ -1,5 +1,5 @@
 resource "azurerm_virtual_network" "vnet-block" {
-  for_each            = var.vnet-list
+  for_each            = var.vnet_list
   name                = each.value.name
   address_space       = each.value.address_space
   location            = each.value.location

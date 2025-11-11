@@ -1,1 +1,1 @@
-variable "vnet-list" {}
+variable "vnet_list" {}
